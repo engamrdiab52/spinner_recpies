@@ -9,7 +9,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 //spinner1:
 // you need a button to take the choice from the spinner to the text view (as there is no listner )
-
+// comment to check git
 public class MainActivity extends Activity {
         Spinner spinner1;
         TextView textView;
