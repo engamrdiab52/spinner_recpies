@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner_recpies</string>
+    <string-array name="array_strings_1">
+        <item>option 1</item>
+        <item>option 2</item>
+        <item>option 3</item>
+        <item>option 4</item>
+    </string-array>
+</resources>
